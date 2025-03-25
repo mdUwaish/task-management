@@ -14,7 +14,7 @@ The Task Management API is built using Django and Django REST Framework (DRF) to
 
 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-repo/task-management.git
+git clone https://github.com/mdUwaish/task-management
 cd task-management
 ```
 
